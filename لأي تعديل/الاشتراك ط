@@ -1,0 +1,9 @@
+            <form action="" class="newsletter-form">
+              <input type="email" name="email_address" placeholder="Enter your mail" required class="email-field">
+
+              <button type="submit" class="btn btn-secondary has-before has-after">
+                <span class="span">اشتراك</span>
+
+                <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+              </button>
+            </form>

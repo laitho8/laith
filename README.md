@@ -1,11 +1,5 @@
 <div align="center">
-  
- 
-[![Twitter](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube](https://img.shields.io/youtube/views/olASpEtIwRY?style=social)](https://youtu.be/olASpEtIwRY)
 
-  <br />
-  <br />
 
   <h2 align="center"> الرابط </h2>
 

@@ -7,11 +7,11 @@
   <br />
   <br />
 
-  <h2 align="center">Pixology - Digital Agency Website</h2>
+  <h2 align="center"> الرابط </h2>
 
-  Pixology is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  للدخول على الموقع
 
-  <a href="https://codewithsadee.github.io/pixology/"><strong>➥ Live Demo</strong></a>
+  <a href="https://laitho8.github.io/lairh/"><strong>➥ انقر هنا</strong></a>
 
 </div>
 

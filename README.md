@@ -11,7 +11,7 @@
 
   للدخول على الموقع
 
-  <a href="https://laitho8.github.io/lairh/"><strong>➥ انقر هنا</strong></a>
+  <a href="https://laitho8.github.io/laith/"><strong> انقر هنا ➥ </strong></a>
 
 </div>
 

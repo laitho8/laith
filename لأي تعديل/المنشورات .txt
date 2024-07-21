@@ -1,0 +1,109 @@
+
+# ©2024 يأتي هذا القسم اسفل الايميل و فوق التوثيق
+
+في اخر الصفحة
+
+
+
+
+
+        <ul class="footer-list">
+
+          <li>
+            <p class="footer-list-title"> منشورات </p>
+          </li>
+
+          <li>
+            <ul class="insta-post">
+
+              <li>
+                <div class="insta-card">
+
+                  <figure class="post-banner">
+                    <img src="./assets/images/insta-post-1.jpg" width="77" height="63" loading="lazy"
+                      alt="instagram post" class="img-cover">
+                  </figure>
+
+                  <a href="#" class="card-content">
+                    <ion-icon name="logo-instagram" aria-hidden="true"></ion-icon>
+                  </a>
+
+                </div>
+              </li>
+
+              <li>
+                <div class="insta-card">
+
+                  <figure class="post-banner">
+                    <img src="./assets/images/insta-post-2.jpg" width="77" height="63" loading="lazy"
+                      alt="instagram post" class="img-cover">
+                  </figure>
+
+                  <a href="#" class="card-content">
+                    <ion-icon name="logo-instagram" aria-hidden="true"></ion-icon>
+                  </a>
+
+                </div>
+              </li>
+
+              <li>
+                <div class="insta-card">
+
+                  <figure class="post-banner">
+                    <img src="./assets/images/insta-post-3.jpg" width="77" height="63" loading="lazy"
+                      alt="instagram post" class="img-cover">
+                  </figure>
+
+                  <a href="#" class="card-content">
+                    <ion-icon name="logo-instagram" aria-hidden="true"></ion-icon>
+                  </a>
+
+                </div>
+              </li>
+
+              <li>
+                <div class="insta-card">
+
+                  <figure class="post-banner">
+                    <img src="./assets/images/insta-post-4.jpg" width="77" height="63" loading="lazy"
+                      alt="instagram post" class="img-cover">
+                  </figure>
+
+                  <a href="#" class="card-content">
+                    <ion-icon name="logo-instagram" aria-hidden="true"></ion-icon>
+                  </a>
+
+                </div>
+              </li>
+
+              <li>
+                <div class="insta-card">
+
+                  <figure class="post-banner">
+                    <img src="./assets/images/insta-post-5.jpg" width="77" height="63" loading="lazy"
+                      alt="instagram post" class="img-cover">
+                  </figure>
+
+                  <a href="#" class="card-content">
+                    <ion-icon name="logo-instagram" aria-hidden="true"></ion-icon>
+                  </a>
+
+                </div>
+              </li>
+
+              <li>
+                <div class="insta-card">
+
+                  <figure class="post-banner">
+                    <img src="./assets/images/insta-post-6.jpg" width="77" height="63" loading="lazy"
+                      alt="instagram post" class="img-cover">
+                  </figure>
+
+                  <a href="#" class="card-content">
+                    <ion-icon name="logo-instagram" aria-hidden="true"></ion-icon>
+                  </a>
+
+                </div>
+              </li>
+
+            </ul>

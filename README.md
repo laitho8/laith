@@ -13,4 +13,4 @@
 
 ### تصميم للموقع
 
-![Pixology Desktop Demo](./readme-images/web.png "Desktop Demo")
+![Pixology Desktop Demo](./readme-images/Web.png "Desktop Demo")
